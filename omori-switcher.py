@@ -65,3 +65,6 @@ def rename_game(game):
             print("An error occured. This is usually caused by having the game directory open in file explorer while running the script. Please close the file explorer, then run the script again.")
             input()
             sys.exit()
+
+# Run the program
+main()
