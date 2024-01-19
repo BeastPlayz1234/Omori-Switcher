@@ -1,4 +1,4 @@
-**Note:ONE INSTALL MUST BE MODDED FOR THIS TO WORK. I might change this in the future if i ever end up wanting to rewrite the whole thing to support multiple installs.
+**Note: ONE INSTALL MUST BE MODDED FOR THIS TO WORK. I might change this in the future if i ever end up wanting to rewrite the whole thing to support multiple installs.**
 
 This program is just a really simple way to switch your Omori installs between two if you have one for modded and one for the base game.
 
