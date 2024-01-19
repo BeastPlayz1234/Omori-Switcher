@@ -30,7 +30,7 @@ def main():
                 print("An error occured. This is usually caused by having the game directory open in file explorer while running the script. Please close the file explorer, then run the script again.")
                 no = input("")
                 sys.exit()
-        else:
+        elif check == 'N' or check == 'n':
             try:
                 os.rename(location + "Omori", location + "\\Omori (Vanilla)")
                 print("Succefully renamed folder. Now reinstall Omori through Steam, mod the game, then the script should auto switch your game between modded and unmodded. Press enter to exit script")
