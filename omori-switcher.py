@@ -32,7 +32,7 @@ def main():
                 sys.exit()
         elif check == 'N' or check == 'n':
             try:
-                os.rename(location + "Omori", location + "\\Omori (Vanilla)")
+                os.rename(location + "\\Omori", location + "\\Omori (Vanilla)")
                 print("Succefully renamed folder. Now reinstall Omori through Steam, mod the game, then the script should auto switch your game between modded and unmodded. Press enter to exit script")
                 no = input("")
                 sys.exit()
